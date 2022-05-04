@@ -548,4 +548,133 @@
         }
       }
     },
-   
+    {
+      "name": "西瓜视频(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://www.ixigua.com/channel/dianying/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "长资源(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.qianoo.cn/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "低端影视(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
+      "webUrl": "https://ddrk.me",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "素白白(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "id=6933",
+      "webUrl": "https://www.subaibai.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "奈非高清(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "ad,https://nfxhd.com/pic/p.gif",
+      "webUrl": "https://nfxhd.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "NO视频(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "ad,https://nfxhd.com/pic/p.gif",
+      "webUrl": "https://www.novipnoad.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "zzzfun(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "ad,https://nfxhd.com/pic/p.gif",
+      "webUrl": "http://www.zzzfun.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "百度搜索(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.baidu.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "央视直播(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://tv.cctv.com/live/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "虎牙一起看(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.huya.com/g/seeTogether",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "斗鱼一起看(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.douyu.com/g_yqk",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "哔哩哔哩一起看(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "企鹅一起看(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110",
+      "webOpen": true,
+      "click": true
+    }
+  ]
+}
